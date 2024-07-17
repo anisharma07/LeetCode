@@ -12,7 +12,7 @@ public:
     {
         int count = 0;
         int n = nums.size();
-        for (int i = count; i < n; ++i)
+        for (int i = count; i < n; i++)
         {
             if (nums[i] != 0)
             {
