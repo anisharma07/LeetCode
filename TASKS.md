@@ -16,7 +16,9 @@ Status markers: `[ ]` todo · `[~]` in progress / partially done · `[x]` done
   - [ ] Rename the PPTs lecture-wise, following the syllabus and the naming of the already-converted decks
   - [ ] Create a new resource for any syllabus lecture that has none
   - [ ] Analyze the question papers in the folder and build a master paper
-  - BLOCKED (2026-11-18): no Google Drive access in this session (no connector; the network blocks drive.google.com). Also needs: which design system to use, and where to deliver the output.
+  - Design system: networks_ppt_design_system — https://claude.ai/artifact/UoYjUAC59na2nj2znbokif (read it with the Artifact tool before converting anything)
+  - Output: save every finished deck, and the master paper, back into the same Drive folder as PDF
+  - Status (2026-11-18): Google Drive connected on the account; waiting for a session that has the Drive connector loaded
 
 ## Log
 
