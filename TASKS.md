@@ -24,3 +24,4 @@ Status markers: `[ ]` todo · `[~]` in progress / partially done · `[x]` done
 
 <!-- Claude appends a short note after each run: date, what got done, what's left. -->
 - 2026-11-18 15:11 UTC: Drive lecture resources still blocked — this session has no Google Drive connector. Nothing done; all 5 sub-steps remain.
+- 2026-11-18 16:54 UTC: Drive lecture resources still blocked. This session has no Google Drive connector either (no Drive tools, nothing listed as connected). Nothing done; all 5 sub-steps remain. Set up a scheduled task that runs every 5h to keep working through this file, but it could not store the Drive connector, so those runs won't have Drive tools yet either.
